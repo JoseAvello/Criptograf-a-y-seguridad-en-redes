@@ -1,0 +1,16 @@
+prompt 1. 
+
+Generar un programa, en python3 utilizando chatGPT, que permita cifrar texto utili-zando el algoritmo Cesar. Como parametros de su programa debera ingresar el stringa cifrar y luego el corrimiento.
+pero quiero que el string se lo ingrese como parametro al ejecutar el python3.
+
+
+prompt 2.
+
+Genera un script en Python 3 utilizando la librería Scapy que permita enviar un string pasado por argumento de línea de comandos dentro de paquetes ICMP Request. El script debe enviar exactamente un carácter del string en el campo de datos (payload) de cada paquete ICMP enviado.+
+
+
+promt 3. 
+
+necesito un script en Python 3 para un laboratorio donde debo capturar caracteres ocultos en pings ICMP y descifrar un mensaje con el cifrado Cesar. no tengo el corrimiento exacto por lo que debes probar todos los casos entonces hacer los 26 rotaciones. ademas intala las librerias necesarias para poder importar alguna libreria en español que me busque cual frase tiene mas coherencia en español y la marque en verde. 
+
+
